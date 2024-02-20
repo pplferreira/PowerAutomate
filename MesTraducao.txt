@@ -1,0 +1,50 @@
+[
+  {
+    "MesEN": "January",
+    "MesPT": "Janeiro"
+  },
+  {
+    "MesEN": "February",
+    "MesPT": "Fevereiro"
+  },
+  {
+    "MesEN": "March",
+    "MesPT": "Março"
+  },
+  {
+    "MesEN": "April",
+    "MesPT": "Abril"
+  },
+  {
+    "MesEN": "May",
+    "MesPT": "Maio"
+  },
+  {
+    "MesEN": "June",
+    "MesPT": "Junho"
+  },
+  {
+    "MesEN": "July",
+    "MesPT": "Julho"
+  },
+  {
+    "MesEN": "August",
+    "MesPT": "Agosto"
+  },
+  {
+    "MesEN": "September",
+    "MesPT": "Setembro"
+  },
+  {
+    "MesEN": "October",
+    "MesPT": "Outubro"
+  },
+  {
+    "MesEN": "November",
+    "MesPT": "Novembro"
+  },
+  {
+    "MesEN": "December",
+    "MesPT": "Dezembro"
+  }
+]
